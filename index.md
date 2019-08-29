@@ -1,8 +1,6 @@
-# Site settings
-title: Rodney Gottschalk
+# Rodney Gottschalk - Professional Resume
 
-#User specific content
-#Links that will appear in the navbar
+# Links that will appear in the navbar
 primarylinks:
  - title: LinkedIn
    url:www.linkedin.com/in/rodney-gottschalk
