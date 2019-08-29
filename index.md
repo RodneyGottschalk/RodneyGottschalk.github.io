@@ -7,6 +7,7 @@
  
 ## Skills:
 - **Data Sciences-Related:**
+
  **Languages:**
   - SQL / MySQL
   - Python
@@ -14,6 +15,7 @@
   - C++
   - Visual Basic for Applications (VBA)
   - SAS
+  
 **Applications:**
   - Tableau
   - Alteryx
@@ -21,6 +23,7 @@
   - ARENA Simulator
   - Autodesk Inventor
   - Solidworks
+  
 **Engineering-Related:**
   - Statics
   - Thermodynamics
@@ -34,6 +37,7 @@
   - Ergonomics
   - Differential and Integral Calculus
   - Electro-Mechanical Processes (Circuilts I , Circuits II, Electro-Mechanical Design)
+  
 **General**
   - AGILE Methodoligies
   - Lean / 6 Sigma - Green Belt Certification
