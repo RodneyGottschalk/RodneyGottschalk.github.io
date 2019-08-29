@@ -8,9 +8,9 @@
 ## Introduction:
 **_Well rounded consultant with keen insights into all aspects of analytics among various sectors of the fortune 500._**
 
-**_Bachelors in Industrial and Systems Engineering. Exceptional oral and written communication skills. Proven track record in big data analytics and pure play decision making industry. Skills and expertise include Market Analysis, Statistical Modeling, Sales, Data Engineering, Project Execution, Project Management and Project Leadership. Complementary experience in Continuous Improvement (Lean/Six Sigma Certified - Green Belt)._**
+_Bachelors in Industrial and Systems Engineering. Exceptional oral and written communication skills. Proven track record in big data analytics and pure play decision making industry. Skills and expertise include Market Analysis, Statistical Modeling, Sales, Data Engineering, Project Execution, Project Management and Project Leadership. Complementary experience in Continuous Improvement (Lean/Six Sigma Certified - Green Belt)._
 
-**_Specialties: Fundamental Market Analysis, Market Research and Strategic Analysis, Strategic Planning, Competitive Analysis, Project Engineering, Project Management, Statistical Modeling, Systems Design, Data Engineering, Driving Consumption of New Technologies, Process Improvement, and Data Driven Decision Making._**
+**_Specialties:** Fundamental Market Analysis, Market Research and Strategic Analysis, Strategic Planning, Competitive Analysis, Project Engineering, Project Management, Statistical Modeling, Systems Design, Data Engineering, Driving Consumption of New Technologies, Process Improvement, and Data Driven Decision Making._
 
 ## Data Sciences-Related Skills:
 - **Languages:**
@@ -112,33 +112,11 @@ education:
    date: 2003
    subject: Artificial Intelligence and Computer Science
    school: University of Birmingham
-#This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
+      
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
-#Stackoverflow flair is optional
-stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
-#Mobile apps section is optional
-apps:
- - name: Chuck the Quiz
-   platform: Android
-   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
-   description: A basic early Android app (open sourced)
-#An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>).
 
-### Jekyll Themes
+  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RodneyGottschalk/RodneyGottschalk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
