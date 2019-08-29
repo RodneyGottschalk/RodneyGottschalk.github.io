@@ -7,42 +7,42 @@
  
 ## Skills:
 - **Data Sciences-Related:**
-**Languages:**
- - SQL / MySQL
- - Python
- - R / R-Shiny
- - C++
- - Visual Basic for Applications (VBA)
- - SAS
+ **Languages:**
+  - SQL / MySQL
+  - Python
+  - R / R-Shiny
+  - C++
+  - Visual Basic for Applications (VBA)
+  - SAS
 **Applications:**
- - Tableau
- - Alteryx
- - Solidworks
- - ARENA Simulator
- - Autodesk Inventor
- - Solidworks
+  - Tableau
+  - Alteryx
+  - Solidworks
+  - ARENA Simulator
+  - Autodesk Inventor
+  - Solidworks
 **Engineering-Related:**
- - Statics
- - Thermodynamics
- - Fluid Mechanics
- - Deterministic Systems Modeling (Operations Research I)
- - Probabilistic Systems Modeling (Operations Research II)
- - Systems Design & Evaluation
- - Design & Manufacturing Processes (Materials Engineering I)
- - Design & Manufacturing Processes (Materials Engineering II)
- - Quality & Reliability Engineering
- - Ergonomics
- - Differential and Integral Calculus
- - Electro-Mechanical Processes (Circuilts I , Circuits II, Electro-Mechanical Design)
+  - Statics
+  - Thermodynamics
+  - Fluid Mechanics
+  - Deterministic Systems Modeling (Operations Research I)
+  - Probabilistic Systems Modeling (Operations Research II)
+  - Systems Design & Evaluation
+  - Design & Manufacturing Processes (Materials Engineering I)
+  - Design & Manufacturing Processes (Materials Engineering II)
+  - Quality & Reliability Engineering
+  - Ergonomics
+  - Differential and Integral Calculus
+  - Electro-Mechanical Processes (Circuilts I , Circuits II, Electro-Mechanical Design)
 **General**
- - AGILE Methodoligies
- - Lean / 6 Sigma - Green Belt Certification
- - Program Management
- - Continuos Improvement
- - Consulting
- - Supply Chain - Retail Knowledge
- - Client Services
- - High Proficiency with Microsoft Suite
+  - AGILE Methodoligies
+  - Lean / 6 Sigma - Green Belt Certification
+  - Program Management
+  - Continuos Improvement
+  - Consulting
+  - Supply Chain - Retail Knowledge
+  - Client Services
+  - High Proficiency with Microsoft Suite
  
 #Work experience is required
 roles:
