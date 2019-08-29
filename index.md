@@ -1,11 +1,10 @@
 # Rodney Gottschalk - Professional Resume
 
 # Links that will appear in the navbar
-primarylinks:
- - title: LinkedIn
-   url:www.linkedin.com/in/rodney-gottschalk
- - title: GitHub
-   url: https://github.com/rodneygottschalk
+ - **LinkedIn:**
+   www.linkedin.com/in/rodney-gottschalk
+ - **GitHub:**
+   https://github.com/rodneygottschalk
  
 #Any buzzword skills you want to include
 skills:
