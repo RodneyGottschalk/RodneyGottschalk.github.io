@@ -10,7 +10,7 @@
 
 _Bachelors in Industrial and Systems Engineering. Exceptional oral and written communication skills. Proven track record in big data analytics and pure play decision making industry. Skills and expertise include Market Analysis, Statistical Modeling, Sales, Data Engineering, Project Execution, Project Management and Project Leadership. Complementary experience in Continuous Improvement (Lean/Six Sigma Certified - Green Belt)._
 
-**_Specialties:** Fundamental Market Analysis, Market Research and Strategic Analysis, Strategic Planning, Competitive Analysis, Project Engineering, Project Management, Statistical Modeling, Systems Design, Data Engineering, Driving Consumption of New Technologies, Process Improvement, and Data Driven Decision Making._
+**Specialties:** _Fundamental Market Analysis, Market Research and Strategic Analysis, Strategic Planning, Competitive Analysis, Project Engineering, Project Management, Statistical Modeling, Systems Design, Data Engineering, Driving Consumption of New Technologies, Process Improvement, and Data Driven Decision Making._
 
 ## Data Sciences-Related Skills:
 - **Languages:**
