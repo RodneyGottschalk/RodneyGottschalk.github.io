@@ -1,26 +1,50 @@
 # Rodney Gottschalk - Professional Resume
 
-# Links that will appear in the navbar
+## Social Media Links:
  - **LinkedIn:**
    www.linkedin.com/in/rodney-gottschalk
  - **GitHub:**
    https://github.com/rodneygottschalk
  
-#Any buzzword skills you want to include
-skills:
- - Industrial Engineering
- - Optimization Modeling
- - Solidworks
- - ARENA Simulation Software
+## Skills:
+- **Data Sciences-Related:**
+ **Languages:**
+ - SQL / MySQL
  - Python
- - C+
+ - R / R-Shiny
+ - C++
+ - Visual Basic for Applications (VBA)
  - SAS
- - R-Shiny
- - VBA
+ **Applications:**
  - Tableau
- - SQL
- - MySQL
-
+ - Alteryx
+ - Solidworks
+ - ARENA Simulator
+ - Autodesk Inventor
+ - Solidworks
+ **Engineering-Related:**
+ - Statics
+ - Thermodynamics
+ - Fluid Mechanics
+ - Deterministic Systems Modeling (Operations Research I)
+ - Probabilistic Systems Modeling (Operations Research II)
+ - Systems Design & Evaluation
+ - Design & Manufacturing Processes (Materials Engineering I)
+ - Design & Manufacturing Processes (Materials Engineering II)
+ - Quality & Reliability Engineering
+ - Ergonomics
+ - Differential and Integral Calculus
+ - Electro-Mechanical Processes (Circuilts I , Circuits II, Electro-Mechanical Design)
+ **General**
+ - AGILE Methodoligies
+ - Lean / 6 Sigma - Green Belt Certification
+ - Program Management
+ - Continuos Improvement
+ - Consulting
+ - Supply Chain - Retail Knowledge
+ - Client Services
+ - High Proficiency with Microsoft Suite
+ 
 #Work experience is required
 roles:
  - title: Internal Consultant - Special Projects
