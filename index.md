@@ -5,7 +5,7 @@
  - **GitHub:**
    www.github.com/rodneygottschalk
 
-[[ https://media.licdn.com/dms/image/C5103AQFShfQIEcC_kQ/profile-displayphoto-shrink_100_100/0?e=1572480000&v=beta&t=17MoSaZ_DU0fvH6tgpx_aW08KSW7eNLkWeA1927_cJ8 | height = 100px ]]
+![Alt Text](https://github.com/{user}/{repo}/raw/master/path/to/image.gif)
 
 ## Introduction:
 **_Well rounded consultant with keen insights into all aspects of analytics among various sectors of the fortune 500._**
