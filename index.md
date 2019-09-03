@@ -106,17 +106,10 @@ _Bachelors in Industrial and Systems Engineering. Exceptional oral and written c
    - Improved inventory monitoring accuracy by 18% by developing a real-time dashboard for visualizing inventory capacity.
    - Designed, developed and supported new structures for business intelligence to improve decision-making across the finance, planning, operations and marketing teams.
    
-#Education is required
-education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
-      
-#List of interesting Github repo/projects to include - optional
-github:
-
-  
-
-
-
+## Education
+ - **Degree:** Bachelor of Science (B.Sc.) 
+ - **Subject:** Industrial & Systems Engineering
+ - **Minor:** English Writing
+ - **Completed:** May 2018
+ - **School:** University of Oklahoma
+ 
