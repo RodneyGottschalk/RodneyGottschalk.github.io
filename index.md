@@ -4,7 +4,10 @@
    www.linkedin.com/in/rodney-gottschalk
  - **GitHub:**
    www.github.com/rodneygottschalk
-   
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 ## Introduction:
 **_Well rounded consultant with keen insights into all aspects of analytics among various sectors of the fortune 500._**
 
