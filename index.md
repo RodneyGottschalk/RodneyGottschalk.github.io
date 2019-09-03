@@ -67,7 +67,14 @@ _Bachelors in Industrial and Systems Engineering. Exceptional oral and written c
   - Client Services
   - High Proficiency with Microsoft Suite
  
-## Work Experience:
+## Education
+ - **Degree:** Bachelor of Science (B.Sc.) 
+ - **Subject:** Industrial & Systems Engineering
+ - **Minor:** English Writing
+ - **Completed:** May 2018
+ - **School:** University of Oklahoma
+ 
+ ## Work Experience:
  - **Role:** Consultant - Junior Associate
  - **Employer:** Mu Sigma, INC.
  - **Dates Employed:** Jul 2018 - Present
@@ -107,11 +114,3 @@ _Bachelors in Industrial and Systems Engineering. Exceptional oral and written c
    - Assisted Quality control department in establishing API accreditation.
    - Improved inventory monitoring accuracy by 18% by developing a real-time dashboard for visualizing inventory capacity.
    - Designed, developed and supported new structures for business intelligence to improve decision-making across the finance, planning, operations and marketing teams.
-   
-## Education
- - **Degree:** Bachelor of Science (B.Sc.) 
- - **Subject:** Industrial & Systems Engineering
- - **Minor:** English Writing
- - **Completed:** May 2018
- - **School:** University of Oklahoma
- 
