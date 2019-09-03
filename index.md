@@ -95,7 +95,7 @@ _Bachelors in Industrial and Systems Engineering. Exceptional oral and written c
      - Designed logical data models to confirm source data, business logic, reference tables, and destination databases
      - Designed Machine Learning models using Python to drive customer acquisition and retention campaign
    
-   - **Mu Sigma Columbus Program: Jul 2018 - Nov 2019_**
+   - **_Mu Sigma Columbus Program: Jul 2018 - Nov 2019_**
      - Worked with sales and marketing teams to help Mu Sigma acquire new accounts, grow existing accounts, and understand various industry trends
      - Enhanced skills over problem lifecycle including data engineering, cleansing, modeling, and final presentations of results
      - Increased working knowledge of object oriented programming and scripting
