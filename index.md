@@ -5,7 +5,7 @@
  - **GitHub:**
    www.github.com/rodneygottschalk
    
-![image](https://user-images.githubusercontent.com/54680034/64185929-95007580-ce33-11e9-9f3f-4a2a6679048d.png)
+![alt text] (https://user-images.githubusercontent.com/54680034/64185929-95007580-ce33-11e9-9f3f-4a2a6679048d.png)
 
 ## Introduction:
 **_Well rounded consultant with keen insights into all aspects of analytics among various sectors of the fortune 500._**
