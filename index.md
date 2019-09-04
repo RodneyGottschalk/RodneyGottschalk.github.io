@@ -67,14 +67,14 @@ _Bachelors in Industrial and Systems Engineering. Exceptional oral and written c
   - Client Services
   - High Proficiency with Microsoft Suite
  
-## Education
+## Education:
  - **Degree:** Bachelor of Science (B.Sc.) 
  - **Subject:** Industrial & Systems Engineering
  - **Minor:** English Writing
  - **Completed:** May 2018
  - **School:** University of Oklahoma
  
- ## Work Experience:
+## Work Experience:
  - **Role:** Consultant - Junior Associate
  - **Employer:** Mu Sigma, INC.
  - **Dates Employed:** Jul 2018 - Present
